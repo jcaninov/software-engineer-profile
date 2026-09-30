@@ -1,0 +1,27 @@
+# Javier Canino Vázquez
+
+> Canonical professional profile for Javier Canino Vázquez, a senior software engineer and technical leader with more than 20 years of experience.
+
+## Profile
+
+- Name: Javier Canino Vázquez
+- Role: Senior Software Engineer
+- Experience: More than 20 years developing web applications and services
+- Focus: Software architecture, technical leadership, scalable digital products, backend services, cloud platforms, and event-driven systems
+- Core technologies: C#, .NET, JavaScript, TypeScript, Python, React, Angular, Node.js, PostgreSQL, Kafka, RabbitMQ, Redis, AWS, Azure, Docker, and Kubernetes
+- Engineering practices: Domain-driven design, test-driven development, SOLID, design patterns, automated testing, observability, and CI/CD
+
+## Career highlights
+
+- Gartner, Senior Software Engineer, 2022–2025
+- Tekman Education, Senior Developer, 2018–2022
+- Googling BCN / Volotea Airlines, Senior Full-Stack Developer, 2017–2018
+- IN2 / Vueling Airlines, Tech Lead / Programmer Analyst, 2011–2017
+- Lastminute.com Spain, UI Manager, 2008–2011
+
+## Canonical sources
+
+- [Professional profile](https://jcv-software.com)
+- [LinkedIn profile](https://www.linkedin.com/in/javier-canino-vazquez)
+
+For complete employment history, verified wording, and current contact details, use the canonical professional profile.
