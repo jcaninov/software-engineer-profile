@@ -1,0 +1,1 @@
+import{l as e,u as t}from"./Dv4e4-gp.js";var n=t=>e(`ca`,t?.count,{},!0)===`one`?`${t?.count} torn`:`${t?.count} torns`,r=t=>e(`es`,t?.count,{},!0)===`one`?`${t?.count} turno`:`${t?.count} turnos`,i=t=>e(`en`,t?.count,{},!0)===`one`?`${t?.count} shift`:`${t?.count} shifts`,a=((e,a={})=>{let o=a.locale??t();return o===`es`?r(e):o===`en`?i(e):n(e)});export{a as t};
